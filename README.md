@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on exciting development projects
 - 📫 How to reach me: luca.turin2003@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 lucaturin03/lucaturin03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
