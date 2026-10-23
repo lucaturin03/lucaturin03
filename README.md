@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucaturin03
+- 👋 Hi, I’m Luca Turin
 - 👀 I’m interested in development
 - 🌱 I’m currently learning JavaScript
 - 💼 I work with C#
