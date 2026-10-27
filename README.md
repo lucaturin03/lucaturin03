@@ -20,4 +20,4 @@ I'm open to collaborating on projects where good engineering makes a real differ
 
 ### Contact
 
-luca.turin2003@gmail.com · he/him
+luca.turin2003@gmail.com
