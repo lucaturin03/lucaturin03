@@ -10,8 +10,7 @@ I'm open to collaborating on projects where good engineering makes a real differ
 
 ### Projects
 
-- **PrezziAbruzzoFilter** — Blazor application that extracts and filters price data from PDF and TIFF documents through OCR. Deployed on Linux.
-- **TicketOnIt** — .NET integration that creates tickets in NinjaOne via its REST API.
+- Internal applications for GOL - Gruppo Ospedaliero Leonardo
 - **HomeSpan AC** — Apple HomeKit accessory that controls an air conditioner over UART, running on an ESP32.
 
 ### Stack
